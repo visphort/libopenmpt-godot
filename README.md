@@ -136,4 +136,4 @@ This project is licensed under the MIT/X11 license. See `LICENSE` for details.
 [article]: https://visphort.net/articles/3
 [libopenmpt]: https://lib.openmpt.org/
 [libopenmpt-dl]: https://lib.openmpt.org/libopenmpt/download/
-[github-issues]: FILL_THIS_IN
+[github-issues]: https://github.com/visphort/libopenmpt-godot/issues
