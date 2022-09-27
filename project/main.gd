@@ -166,5 +166,5 @@ func _on_load_button_pressed() -> void:
 		set_process(true)
 
 func _on_show_controls_toggled(button_pressed: bool) -> void:
-	$playback.visible = button_pressed
+	$playback_controls.visible = button_pressed
 	$metadata.visible = button_pressed
